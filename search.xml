@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Coding Principle</title>
-    <url>/DLLSSH.com/2023/03/10/method/</url>
-    <content><![CDATA[<h2 id="How-the-Corpus-are-written"><a href="#How-the-Corpus-are-written" class="headerlink" title="How the Corpus are written?"></a>How the Corpus are written?</h2>]]></content>
-  </entry>
-  <entry>
     <title>DiachronicSSL, a Database for Linguistic Landscape Corpus</title>
     <url>/DLLSSH.com/2023/03/10/hello-world/</url>
     <content><![CDATA[<p>Welcome to DiachronicSSL!This website contains LLS corpus from Shanghai Old French Concession of different times that the founders have collected during their studies.</p>
@@ -851,5 +846,10 @@
         <td></td>
     </tr>
 </table>]]></content>
+  </entry>
+  <entry>
+    <title>Coding Principle</title>
+    <url>/DLLSSH.com/2023/03/10/method/</url>
+    <content><![CDATA[<h2 id="How-the-Corpus-is-written"><a href="#How-the-Corpus-is-written" class="headerlink" title="How the Corpus is written?"></a>How the Corpus is written?</h2>]]></content>
   </entry>
 </search>
